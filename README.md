@@ -1,2 +1,2 @@
-# Image-processing
+# Image_processing
 Цифровая обработка изображений
